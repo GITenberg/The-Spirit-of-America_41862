@@ -1,0 +1,36 @@
+_repo: The-Spirit-of-America_41862
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41862-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Van Dyke, Henry
+    aliases:
+    - Dyke, Henry Jackson Van
+    - Dyke, Henry Van
+    - Dyke, Henry I. Van
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '362'
+    url: http://www.gutenberg.org/2009/agents/362
+    wikipedia: http://en.wikipedia.org/wiki/Henry_van_Dyke
+description: '"This book contains the first seven of a series of twenty-six conferences,
+  given in the winter of 1908-1909, on the Hyde foundation, at the University of Paris,
+  and repeated in part at other universities of France. They were delivered in English,
+  and afterward translated into French ad published under the title "Le genie de l''
+  Amerique."--Pref.'
+gutenberg_issued: '2013-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41862'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Civilization'
+- !lcc 'E151'
+- !lcsh 'National characteristics, American'
+title: The Spirit of America
+url: http://www.gutenberg.org/ebooks/41862
